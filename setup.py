@@ -10,7 +10,7 @@ setup(
       'unittest2',
     ],
     test_suite='unittest2.collector',
-    packages=find_packages(),
+    packages=['pypalan'],
     install_requires=[
       'pyodbc',
       'pandas'
