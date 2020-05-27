@@ -26,3 +26,4 @@ build/
 node_modules
 venv
 .DS_Store
+pypalan.egg-info

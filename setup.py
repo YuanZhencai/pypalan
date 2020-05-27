@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pypalan',
-    version='0.1',
+    version='0.0.1',
     description='python palan read data',
     author='yuanzhencai',
     author_email='zhencai.yuan@datarx.cn',
