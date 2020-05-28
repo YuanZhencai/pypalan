@@ -8,8 +8,8 @@
 
 2. 使用
 
-```python
-import pypalan
-pypalan.read_sql('select * from cp.`employee.json`')
-pypalan.read_table('cp.`employee.json`')
-```
+    ```python
+    import pypalan
+    pypalan.read_sql('select * from cp.`employee.json`')
+    pypalan.read_table('cp.`employee.json`')
+    ```
