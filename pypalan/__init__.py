@@ -1,1 +1,1 @@
-from pypalan.read_sql import *
+from pypalan.sql import *
